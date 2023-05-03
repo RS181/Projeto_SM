@@ -1,0 +1,4 @@
+1) Colocar um personagem e testar se o coiso dos turnos esta a fazer bem (meter os players 
+como gameobjects individuais)
+2) Acabar os tutoriais
+3) tentar implementar uma gameobject que ao tocar mostra uma carta aleatoria 
