@@ -8,7 +8,7 @@ In this project we were tasked to conceive from scracth a board game that takes 
 + Rui Filipe Silva Santos	<br>
 
 # Related Links 
-In case any of the links are not working, please check the zip file present in this repository
+In case any of the links are not working, please contact me through my email. 
 
 >[Game Teaser](https://uporto-my.sharepoint.com/:v:/g/personal/up202109728_up_pt/EbVnMGRosV5Ntgj22Bx6f9cBfjDn6yJ6znrqlbhcqVN-3w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=XUp1wT)
 
