@@ -2,10 +2,10 @@
 In this project we were tasked to conceive from scracth a board game that takes inspiration from  [THE 17 GOALS of Sustainable Development](https://sdgs.un.org/goals)  proposed by the United Nations.We were given the option of chosing to make a board game using an actual game engine or by making a video.The group decided to make a game using the game engine [Unity](https://unity.com/pt).
 
 # Members of Group 
-+ Carla Elisabeth Hirano Henriques	
-+ Marisa Peniche Salvador Azevedo	
-+ Marta Luísa Monteiro Pereira	
-+ Rui Filipe Silva Santos	<br>
++ [Carla Henriques](https://github.com/carlahnr)
++ [Marisa Azevedo](https://github.com/marisaazevedo)	
++ [Marta Pereira](https://github.com/martapereira0)
++ [Rui Santos](https://github.com/RS181)
 
 # Related Links 
 In case any of the links are not working, please contact me through my email. 
